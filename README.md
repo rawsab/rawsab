@@ -10,10 +10,10 @@
   <a href="https://www.linkedin.com/in/rawsabsaid/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="rsaid@uwaterloo.ca">
+  <a href="mailto:rsaid@uwaterloo.ca">
     <img src="https://img.shields.io/badge/Email-ECC035?style=for-the-badge&logo=microsoftoutlook&logoColor=black" alt="Email Badge"/>
   </a>
-  <a href="rawsab04@gmail.com">
+  <a href="mailto:rawsab04@gmail.com">
     <img src="https://img.shields.io/badge/Personal%20Email-DB4437?style=for-the-badge&logo=gmail&logoColor=white" alt="Personal Badge"/>
   </a>
   <a href="http://instagram.com/rrawsab/">

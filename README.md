@@ -38,7 +38,6 @@
   <img src="https://img.shields.io/badge/Swift-orange?style=for-the-badge&logo=swift&logoColor=white" alt="Swift Badge"/>
   <img src="https://img.shields.io/badge/HTML5-f23e11?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"/>
   <img src="https://img.shields.io/badge/Javascript-f5ed56?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript Badge"/>
-  <img src="https://img.shields.io/badge/React.js-9fedeb?style=for-the-badge&logo=react&logoColor=black" alt="ReactJS Badge"/>
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-2ba3ed?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VSC Badge"/>
   <img src="https://img.shields.io/badge/XCode-0d5fa1?style=for-the-badge&logo=xcode&logoColor=white" alt="XCode Badge"/>
   <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>

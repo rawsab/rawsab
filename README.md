@@ -18,7 +18,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Circular&size=34&duration=3500&pause=1000&color=F7F7F7&width=435&lines=Hey+there%2C+I'm+Rawsab+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-I'm a **Software Engineering** student at the **University of Waterloo**, currently seeking **Summer 2025** SWE internship opportunities 🔭
+I'm a **Software Engineering** student at the **University of Waterloo**, currently seeking **Summer 2025** SWE co-op opportunities 🔭
 
 ## 💻 My Experiences!
 

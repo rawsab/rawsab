@@ -27,7 +27,7 @@ Incoming...
 
 Previously... 
 - Software Engineer Intern @ [BlackBerry](https://www.blackberry.com/us/en) | Building an Automated Binary Scanner for Vulnerability Assessment 🔐
-- Full-Stack Developer Intern @ [Cypienta](https://cypienta.com/) | Web Application and Services Team (AI Cybersecurity Auto Pilot) 🚀
+- Full-Stack Developer Intern @ [Cypienta](https://cypienta.com/) | Web Application and Services Team for an AI Cybersecurity Auto Pilot 🚀
 - Connected Software Developer @ [UWAFT](https://www.uwaft.ca/) | Developing a Human-Machine Interface for the 2023 Cadillac LYRIQ 🚗
 - Accessibility Technology Researcher @ [RIT](https://www.rit.edu/) | Engineering Cognitive Accessibility Tools for Children with ASD 🧠
 

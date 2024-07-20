@@ -22,20 +22,20 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Circular&duration=3500&pause=1500&color=F7F7F7&width=700&lines=I'm+Rawsab%2C+a+Software+Engineering+Student+at+the+University+of+Waterloo+%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93)](https://git.io/typing-svg)
 
-## 💻 My Experiences!
+## 💻 My Experiences
 
 _I'm currently seeking **Summer 2025** SWE internship opportunities 🔭_
 
 **Incoming...**
 - Software Engineer Intern @ [dandelion](https://dandelionnet.io/) | Core Development Team ⚙️
 
-**Previously... **
+**Previously...**
 - Software Engineer Intern @ [BlackBerry](https://www.blackberry.com/us/en) | Building an Automated Binary Scanner for Vulnerability Assessment 🔐
 - Full-Stack Developer Intern @ [Cypienta](https://cypienta.com/) | Web Application and Services Team for an AI Cybersecurity Auto Pilot 🚀
 - Connected Software Developer @ [UWAFT](https://www.uwaft.ca/) | Developing a Human-Machine Interface for the 2023 Cadillac LYRIQ 🚗
 - Accessibility Technology Researcher @ [RIT](https://www.rit.edu/) | Engineering Cognitive Accessibility Tools for Children with ASD 🧠
 
-## 🛠️ Technologies!
+## 🛠️ Technical Skills
 
 **Languages:** Python, C/C#/C++, Java, Swift, Golang, SQL, JavaScript/TypeScript, Shell \
 **Frameworks/Libraries:** Svelte, React, Node.js, Angular, Django, SwiftUI, .NET \

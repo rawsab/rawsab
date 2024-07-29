@@ -27,7 +27,7 @@
 _I'm currently seeking **Summer 2025** SWE internship opportunities 🔭_
 
 **Incoming...**
-- Software Engineer Intern @ [dandelion](https://dandelionnet.io/) | Core Development Team (Distributed Systems) ⚙️
+- Software Engineer Intern @ [dandelion](https://dandelionnet.io/) | Core Development (Distributed Systems) Team ⚙️
 
 **Previously...**
 - Software Engineer Intern @ [BlackBerry](https://www.blackberry.com/us/en) | Building an Automated Binary Scanner for Vulnerability Assessment 🔐

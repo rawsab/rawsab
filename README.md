@@ -20,7 +20,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Circular&size=34&duration=3500&pause=1000&color=F7F7F7&width=435&lines=Hey+there%2C+I'm+Rawsab+%F0%9F%91%8B)](https://git.io/typing-svg)
 -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Circular&duration=3500&pause=1500&color=F7F7F7&width=700&lines=I'm+Rawsab%2C+a+Software+Engineering+Student+at+the+University+of+Waterloo+%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Circular&duration=2000&pause=1300&color=F7F7F7&width=700&lines=I'm+Rawsab%2C+a+Software+Engineering+Student+at+the+University+of+Waterloo+%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93;Distributed+Systems+%40+Dandelion+%7C+SWE+%40+BlackBerry+%7C+Full-Stack+%40+Cypienta)](https://git.io/typing-svg)
 
 ## 💻 My Experiences
 

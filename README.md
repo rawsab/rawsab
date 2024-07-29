@@ -43,7 +43,7 @@ _I'm currently seeking **Summer 2025** SWE internship opportunities 🔭_
 
 ## 🤝 Let's Connect 
 
-- Email: rsaid@uwaterloo.ca
+- Email: [rsaid [at] uwaterloo.ca](mailto:rsaid@uwaterloo.ca)
 - Linkedin: https://www.linkedin.com/in/rawsabsaid/
 
 <!--

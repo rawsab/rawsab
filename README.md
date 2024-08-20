@@ -37,8 +37,8 @@ _I'm currently seeking **Summer 2025** SWE internship opportunities 🔭_
 
 ## 🛠️ Technical Skills
 
-**Languages:** Python, C/C#/C++, Java, Swift, Golang, SQL, JavaScript/TypeScript, Shell \
-**Frameworks/Libraries:** Svelte, React, Node.js, Angular, Django, SwiftUI, .NET \
+**Languages:** Python, C/C#/C++, Java, Swift, Golang, SQL, JavaScript/TypeScript, Bash \
+**Frameworks/Libraries:** Svelte, React, Node.js, Angular, Django, SwiftUI, .NET (ASP.NET Core, ML.NET) \
 **Developer Tools:** Git, Docker, Kubernetes; PyTorch, TensorFlow, Pandas, Numpy, Scikit-Learn
 
 ## 🤝 Let's Connect 

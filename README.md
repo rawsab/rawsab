@@ -26,7 +26,7 @@
 
 _I'm currently seeking **Summer 2025** SWE internship opportunities 🔭_
 
-**Incoming...**
+**Currently...**
 - Software Engineer Intern @ [dandelion](https://dandelionnet.io/) | Node Team (Node Algorithms & Distributed Systems) ⚙️
 
 **Previously...**

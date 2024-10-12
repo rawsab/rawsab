@@ -27,7 +27,7 @@
 _I'm currently seeking **Summer 2025** SWE internship opportunities 🔭_
 
 **Currently...**
-- Software Engineer Intern @ [dandelion](https://dandelionnet.io/) | Consensus Network Protocols & Distributed Systems ⚙️
+- Software Engineer Intern @ [dandelion](https://dandelionnet.io/) | Developing Consensus Network Protocols & Distributed Systems ⚙️
 
 **Previously...**
 - Software Engineer Intern @ [BlackBerry](https://www.blackberry.com/us/en) | Building an Automated Binary Scanner for Vulnerability Assessment 🔐

@@ -24,12 +24,13 @@
 
 ## 💻 My Experiences
 
-_I'm currently seeking **Summer 2025** SWE internship opportunities 🔭_
+_I'm currently seeking **Winter 2026** SWE internship opportunities 🔭_
 
 **Currently...**
-- Software Engineer Intern @ [dandelion](https://dandelionnet.io/) | Developing Consensus Network Protocols & Distributed Systems ⚙️
+- Machine Learning Intern @ [Kickflo](https://dulcedo.com/) | Working with Computer Vision + RAG for Data Analysis 📊
 
 **Previously...**
+- Software Engineer Intern @ [dandelion](https://dandelionnet.io/) | Developing Consensus Network Protocols & Distributed Systems ⚙️
 - Software Engineer Intern @ [BlackBerry](https://www.blackberry.com/us/en) | Building an Automated Binary Scanner for Vulnerability Assessment 🔐
 - Full-Stack Developer Intern @ [Cypienta](https://cypienta.com/) | Web Application and Services Team for an AI Cybersecurity Auto Pilot 🚀
 - Connected Software Developer @ [UWAFT](https://www.uwaft.ca/) | Developing a Human-Machine Interface for the 2023 Cadillac LYRIQ 🚗

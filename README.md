@@ -20,14 +20,16 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Circular&size=34&duration=3500&pause=1000&color=F7F7F7&width=435&lines=Hey+there%2C+I'm+Rawsab+%F0%9F%91%8B)](https://git.io/typing-svg)
 -->
 
+<!--
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Circular&duration=2000&pause=1300&color=F7F7F7&width=700&lines=I'm+Rawsab%2C+a+Software+Engineering+Student+at+the+University+of+Waterloo+%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93;Distributed+Systems+%40+Dandelion+%7C+SWE+%40+BlackBerry+%7C+Full-Stack+%40+Cypienta)](https://git.io/typing-svg)
+-->
 
 ## 💻 My Experiences
 
 _I'm currently seeking **Winter 2026** SWE internship opportunities 🔭_
 
 **Currently...**
-- Machine Learning Intern @ [Kickflo](https://dulcedo.com/) | Working with Computer Vision + RAG for Data Analysis 📊
+- Machine Learning Intern @ [Kickflo](https://dulcedo.com/) | MLOps (RAG Architecture) & Infrastructure for Data Analysis Platform 📊
 
 **Previously...**
 - Software Engineer Intern @ [dandelion](https://dandelionnet.io/) | Developing Consensus Network Protocols & Distributed Systems ⚙️
@@ -41,6 +43,10 @@ _I'm currently seeking **Winter 2026** SWE internship opportunities 🔭_
 **Languages:** Python, C/C#/C++, Java, Swift, Golang, SQL, JavaScript/TypeScript, Bash \
 **Frameworks/Libraries:** Svelte, React, Node.js, Angular, Django, SwiftUI, .NET (ASP.NET Core, ML.NET) \
 **Developer Tools:** Git, Docker, Kubernetes; PyTorch, TensorFlow, Pandas, Numpy, Scikit-Learn
+
+## 👨‍🎓 Education
+
+**University of Waterloo,** Bachelor of Software Engineering (BSE); _Graduation: April 2027_
 
 ## 🤝 Let's Connect 
 

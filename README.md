@@ -28,25 +28,21 @@
 
 _I'm currently seeking **Winter 2026** SWE internship opportunities 🔭_
 
-**Currently...**
-- Machine Learning Intern @ [Kickflo](https://dulcedo.com/) | MLOps (RAG Architecture) & Infrastructure for Data Analysis Platform 📊
+- **Currently:** Machine Learning Intern @ [Kickflo](https://dulcedo.com/)
 
-**Previously...**
-- Software Engineer Intern @ [dandelion](https://dandelionnet.io/) | Developing Consensus Network Protocols & Distributed Systems ⚙️
-- Software Engineer Intern @ [BlackBerry](https://www.blackberry.com/us/en) | Building an Automated Binary Scanner for Vulnerability Assessment 🔐
-- Full-Stack Developer Intern @ [Cypienta](https://cypienta.com/) | Web Application and Services Team for an AI Cybersecurity Auto Pilot 🚀
-- Connected Software Developer @ [UWAFT](https://www.uwaft.ca/) | Developing a Human-Machine Interface for the 2023 Cadillac LYRIQ 🚗
-- Accessibility Technology Researcher @ [RIT](https://www.rit.edu/) | Engineering Cognitive Accessibility Tools for Children with ASD 🧠
+- **Previously:** Software Engineer Intern @ [dandelion](https://dandelionnet.io/), Software Engineer Intern @ [BlackBerry](https://www.blackberry.com/us/en), Full-Stack Developer Intern @ [Cypienta](https://cypienta.com/), Connected Software Developer @ [UWAFT](https://www.uwaft.ca/), Accessibility Technology Researcher @ [RIT](https://www.rit.edu/)
 
 ## 🛠️ Technical Skills
 
 **Languages:** Python, C/C#/C++, Java, Swift, Golang, SQL, JavaScript/TypeScript, Bash \
-**Frameworks/Libraries:** Svelte, React, Node.js, Angular, Django, SwiftUI, .NET (ASP.NET Core, ML.NET) \
-**Developer Tools:** Git, Docker, Kubernetes; PyTorch, TensorFlow, Pandas, Numpy, Scikit-Learn
+**Frameworks/Libraries:** React, Next.js, Svelte, Node.js, Django, SwiftUI, .NET (ASP.NET Core, ML.NET) \
+**Developer Tools:** Git, Docker, Kubernetes; PyTorch, TensorFlow, Langchain, Pandas, Numpy, Scikit-Learn
 
+<!--
 ## 👨‍🎓 Education
 
 **University of Waterloo,** Bachelor of Software Engineering (BSE); _Graduation: April 2027_
+-->
 
 ## 🤝 Let's Connect 
 

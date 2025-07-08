@@ -2,28 +2,6 @@
 <img src="https://github.com/user-attachments/assets/19e3dd64-580d-4d5e-ae03-4268359fc0d3" alt="Rawsab's GitHub Banner" width="1015"/>
 </p>
 
-<!--
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/rawsabsaid/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:rsaid@uwaterloo.ca">
-    <img src="https://img.shields.io/badge/Email-ECC035?style=for-the-badge&logo=microsoftoutlook&logoColor=black" alt="Email Badge"/>
-  </a>
-  <a href="mailto:rawsab04@gmail.com">
-    <img src="https://img.shields.io/badge/Personal%20Email-DB4437?style=for-the-badge&logo=gmail&logoColor=white" alt="Personal Badge"/>
-  </a>
-</div>
--->
-
-<!--
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Circular&size=34&duration=3500&pause=1000&color=F7F7F7&width=435&lines=Hey+there%2C+I'm+Rawsab+%F0%9F%91%8B)](https://git.io/typing-svg)
--->
-
-<!--
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Circular&duration=2000&pause=1300&color=F7F7F7&width=700&lines=I'm+Rawsab%2C+a+Software+Engineering+Student+at+the+University+of+Waterloo+%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93;Distributed+Systems+%40+Dandelion+%7C+SWE+%40+BlackBerry+%7C+Full-Stack+%40+Cypienta)](https://git.io/typing-svg)
--->
-
 ## 💻 My Experiences
 
 _I'm currently seeking **Winter 2026** SWE internship opportunities 🔭_
@@ -32,11 +10,26 @@ _I'm currently seeking **Winter 2026** SWE internship opportunities 🔭_
 
 - **Previously:** Software Engineer Intern @ [dandelion](https://dandelionnet.io/), Software Engineer Intern @ [BlackBerry](https://www.blackberry.com/us/en), Full-Stack Developer Intern @ [Cypienta](https://cypienta.com/), Connected Software Developer @ [UWAFT](https://www.uwaft.ca/), Research Assistant @ [RIT](https://www.rit.edu/)
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
-**Languages:** Python, C/C#/C++, Java, Swift, Golang, SQL, JavaScript/TypeScript, Bash \
-**Frameworks/Libraries:** React, Next.js, Svelte, Node.js, Django, SwiftUI, .NET (ASP.NET Core, ML.NET) \
-**Developer Tools:** Git, Docker, Kubernetes; PyTorch, TensorFlow, Langchain, Pandas, Numpy, Scikit-Learn
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" /> <!-- Python -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" /> <!-- C -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" /> <!-- C# -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" /> <!-- C++ -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" /> <!-- Go -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" /> <!-- Java -->
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="30" /> <!-- Swift -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" /> <!-- React -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" /> <!-- NextJS -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" />  <!-- NodeJS -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" /> <!-- Django -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="30" /> <!-- .NET -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" /> <!-- Docker -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" /> <!-- Kubernetes -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="30" /> <!-- AWS -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" /> <!-- GCP -->
+</p>
 
 <!--
 ## 👨‍🎓 Education

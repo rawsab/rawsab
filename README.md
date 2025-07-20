@@ -1,6 +1,7 @@
 <p align="center">
-<img src="https://github.com/user-attachments/assets/19e3dd64-580d-4d5e-ae03-4268359fc0d3" alt="Rawsab's GitHub Banner" width="1015"/>
+<img width="1762" height="240" alt="GitHub_Banner_cropped" src="https://github.com/user-attachments/assets/9265e229-1325-44e9-a5ff-7c475e719912" />
 </p>
+
 
 ## 💻 My Experiences
 

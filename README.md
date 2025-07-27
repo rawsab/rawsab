@@ -41,6 +41,7 @@ _I'm currently seeking **Winter 2026** SWE internship opportunities 🔭_
 
 - Email: [rsaid [at] uwaterloo.ca](mailto:rsaid@uwaterloo.ca)
 - Linkedin: [linkedin.com/in/rawsabsaid/](https://www.linkedin.com/in/rawsabsaid/)
+- Portfolio: [rawsab.com](https://rawsab.com/)
 
 <!--
 **rawsab/rawsab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

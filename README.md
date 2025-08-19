@@ -1,5 +1,7 @@
 <p align="center">
-<img width="1740" height="254" alt="banner2" src="https://github.com/user-attachments/assets/2738b7a6-455a-4ff6-be9d-6fe82bfde3a4" />
+  <a href="https://www.rawsab.com/">
+    <img width="1740" height="254" alt="banner2" src="https://github.com/user-attachments/assets/2738b7a6-455a-4ff6-be9d-6fe82bfde3a4" />
+  </a>
 </p>
 
 
@@ -14,7 +16,9 @@ _I'm currently seeking **Winter 2026** SWE internship opportunities 🔭_
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img width="1740" height="144" alt="stack" src="https://github.com/user-attachments/assets/c114ce63-ac9a-4acf-9953-f1c8037fca33" />
+  <a href="https://www.rawsab.com/">
+    <img width="1740" height="144" alt="stack" src="https://github.com/user-attachments/assets/c114ce63-ac9a-4acf-9953-f1c8037fca33" />
+  </a>
 </p>
 
 <!--

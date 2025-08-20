@@ -7,11 +7,10 @@
 
 ## 💻 My Experiences
 
-_I'm currently seeking **Winter 2026** SWE internship opportunities 🔭_
+- Currently seeking **Winter 2026** SWE internship opportunities 🔭
+<!-- - **Currently:**  -->
 
-- **Currently:** Machine Learning Intern @ [Node App](https://node-app.com/)
-
-- **Previously:** Software Engineer Intern @ [dandelion](https://dandelionnet.io/), Software Engineer Intern @ [BlackBerry](https://www.blackberry.com/us/en), Full-Stack Developer Intern @ [Cypienta](https://cypienta.com/), Connected Software Developer @ [UWAFT](https://www.uwaft.ca/), Research Assistant @ [RIT](https://www.rit.edu/)
+- **Previously:** Software Engineer Intern @ [Node App](https://node-app.com/), Software Engineer Intern @ [dandelion](https://dandelionnet.io/), Software Engineer Intern @ [BlackBerry](https://www.blackberry.com/us/en), Full-Stack Developer Intern @ [Cypienta](https://cypienta.com/), Connected Software Developer @ [UWAFT](https://www.uwaft.ca/), Research Assistant @ [RIT](https://www.rit.edu/)
 
 ## 🛠️ Tech Stack
 

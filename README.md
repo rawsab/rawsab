@@ -1,69 +1,56 @@
+<!--
+<img height="200" alt="github_banner" src="https://github.com/user-attachments/assets/09cb2261-d708-4f8e-b071-10868ea36187" />
+-->
+
+# Hi, I'm Rawsab! 👋
+
+<!--
 <p align="center">
-  <a href="https://www.rawsab.com/">
-    <img width="1740" height="254" alt="banner2" src="https://github.com/user-attachments/assets/2738b7a6-455a-4ff6-be9d-6fe82bfde3a4" />
-  </a>
+  <sub>
+    <a href="mailto:rsaid@uwaterloo.ca"><img width="18" alt="email" src="https://github.com/user-attachments/assets/5bbb8d23-0573-46a3-b2a6-39ccbefa9bcb" /></a>
+  </sub> <a href="mailto:rsaid@uwaterloo.ca">Email</a> &nbsp;&nbsp;|&nbsp;&nbsp; 
+  
+  <sub>
+    <a href="https://www.linkedin.com/in/rawsabsaid/"><img width="18" alt="linkedin" src="https://github.com/user-attachments/assets/d2db5a36-a2d7-4234-9265-4af658ad23b7" /></a>
+  </sub> <a href="https://www.linkedin.com/in/rawsabsaid/">LinkedIn</a> &nbsp;&nbsp;|&nbsp;&nbsp; 
+  
+  <sub>
+    <a href="https://rawsab.com/"><img width="18" alt="website" src="https://github.com/user-attachments/assets/9a9a11b2-c79c-429c-90c7-5fb559497df7" /></a>
+  </sub> <a href="https://rawsab.com/">Portfolio</a>
 </p>
+-->
+
+I'm a fourth-year Software Engineering student at the **University of Waterloo**. I've worked across early-stage startups and scaling products, most recently at&nbsp; <sub><a href="https://www.palitronica.com/"><img width="20" alt="PalitronicaIcon" src="https://github.com/user-attachments/assets/82fc8cdf-751f-4095-aafe-fe8c73ca1dbc"/></a></sub> **Palitronica (YC W22)** and&nbsp; <sub><a href="https://node-app.com/"><img width="20" alt="NodeAppIcon" src="https://github.com/user-attachments/assets/900c43a6-d8fc-4e71-99a5-49e3ceace826"/></a></sub> **Node App**.
 
 
-## 💻 My Experiences
+## 💻 Experience
+
+<!--
+- Machine Learning Engineer at &nbsp;<sub><img width="20" alt="PalitronicaIcon" src="https://github.com/user-attachments/assets/82fc8cdf-751f-4095-aafe-fe8c73ca1dbc"/></sub> **Palitronica**
+- Software Engineer Intern at &nbsp;<sub><img width="20" alt="NodeAppIcon" src="https://github.com/user-attachments/assets/900c43a6-d8fc-4e71-99a5-49e3ceace826"/></sub> **Node App** (aquired by &nbsp;<sub><img width="20" alt="DulcedoIcon" src="https://github.com/user-attachments/assets/c6405403-b85e-44e0-ac78-9fbd5ea509db"/></sub> **DULCEDO**)
+- Software Engineer Intern at &nbsp;<sub><img width="20" alt="DandelionNetworksIcon" src="https://github.com/user-attachments/assets/1d15da21-5dd1-4768-9324-da5bcc8b1fae"/></sub> **dandelion**
+- Security Engineer Intern at &nbsp;<sub><img width="20" alt="BlackBerryIcon" src="https://github.com/user-attachments/assets/bcef354f-9a10-474a-bd72-86f63937a358"/></sub> **BlackBerry**
+- Software Developer Intern at &nbsp;<sub><img width="20" alt="CypientaIcon" src="https://github.com/user-attachments/assets/eb0e4a81-e40a-4007-994f-98197f05e069"/></sub> **Cypienta**
+-->
 
 - Currently seeking **2026** SWE internship opportunities 🔭
-<!-- - **Currently:**  -->
 
-- **Previously:** Software Engineer Intern @ [Node App](https://node-app.com/), Software Engineer Intern @ [dandelion](https://dandelionnet.io/), Software Engineer Intern @ [BlackBerry](https://www.blackberry.com/us/en), Full-Stack Developer Intern @ [Cypienta](https://cypienta.com/), Connected Software Developer @ [UWAFT](https://www.uwaft.ca/), Research Assistant @ [RIT](https://www.rit.edu/)
+- Previously, I have also worked as a Software Engineer Intern on distributed systems at&nbsp; <sub><a href="https://dandelionnet.com/"><img width="20" alt="DandelionNetworksIcon" src="https://github.com/user-attachments/assets/1d15da21-5dd1-4768-9324-da5bcc8b1fae"/></a></sub> **dandelion**, vulnerability management pipelines at&nbsp; <sub><a href="https://www.blackberry.com/"><img width="20" alt="BlackBerryIcon" src="https://github.com/user-attachments/assets/bcef354f-9a10-474a-bd72-86f63937a358"/></a></sub> **BlackBerry**, and full-stack development at&nbsp; <sub><a href="https://www.cypienta.com/"><img width="20" alt="CypientaIcon" src="https://github.com/user-attachments/assets/eb0e4a81-e40a-4007-994f-98197f05e069"/></a></sub> **Cypienta**.
 
-## 🛠️ Tech Stack
+
+<!--
+## 🛠️ Technologies
 
 <p align="center">
   <a href="https://www.rawsab.com/">
-    <img width="1740" height="144" alt="stack" src="https://github.com/user-attachments/assets/c114ce63-ac9a-4acf-9953-f1c8037fca33" />
+    <img width="1740" height="144" alt="TechStackList" src="https://github.com/user-attachments/assets/c114ce63-ac9a-4acf-9953-f1c8037fca33" />
   </a>
 </p>
-
-<!--
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" />
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" />
-</p>
 -->
 
-
-<!--
-## 👨‍🎓 Education
-
-**University of Waterloo,** Bachelor of Software Engineering (BSE); _Graduation: April 2027_
--->
 
 ## 🤝 Let's Connect 
 
 - Email: [rsaid [at] uwaterloo.ca](mailto:rsaid@uwaterloo.ca)
 - Linkedin: [linkedin.com/in/rawsabsaid/](https://www.linkedin.com/in/rawsabsaid/)
 - Portfolio: [rawsab.com](https://rawsab.com/)
-
-<!--
-**rawsab/rawsab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

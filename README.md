@@ -20,7 +20,7 @@
 </p>
 -->
 
-I'm a fourth-year Software Engineering student at the **University of Waterloo**. I've worked across early-stage startups and scaling products, most recently at&nbsp; <sub><a href="https://www.palitronica.com/"><img width="20" alt="PalitronicaIcon" src="https://github.com/user-attachments/assets/82fc8cdf-751f-4095-aafe-fe8c73ca1dbc"/></a></sub> **Palitronica (YC W22)** and&nbsp; <sub><a href="https://node-app.com/"><img width="20" alt="NodeAppIcon" src="https://github.com/user-attachments/assets/900c43a6-d8fc-4e71-99a5-49e3ceace826"/></a></sub> **Node App**.
+I'm a fourth-year Software Engineering student at the **University of Waterloo**. I've worked across early-stage startups and scaling products, most recently in machine learning roles at&nbsp; <sub><a href="https://www.palitronica.com/"><img width="20" alt="PalitronicaIcon" src="https://github.com/user-attachments/assets/82fc8cdf-751f-4095-aafe-fe8c73ca1dbc"/></a></sub> **Palitronica (YC W22)** and&nbsp; <sub><a href="https://node-app.com/"><img width="20" alt="NodeAppIcon" src="https://github.com/user-attachments/assets/900c43a6-d8fc-4e71-99a5-49e3ceace826"/></a></sub> **Node App**.
 
 
 ## 💻 Experience

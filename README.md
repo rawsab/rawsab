@@ -51,6 +51,12 @@ I'm a fourth-year Software Engineering student at the **University of Waterloo**
 
 ## 🤝 Let's Connect 
 
-- Email: [rsaid [at] uwaterloo.ca](mailto:rsaid@uwaterloo.ca)
-- Linkedin: [linkedin.com/in/rawsabsaid/](https://www.linkedin.com/in/rawsabsaid/)
-- Portfolio: [rawsab.com](https://rawsab.com/)
+- <sub>
+    <a href="mailto:rsaid@uwaterloo.ca"><img width="18" alt="email" src="https://github.com/user-attachments/assets/5bbb8d23-0573-46a3-b2a6-39ccbefa9bcb" /></a>
+  </sub> Email: <a href="mailto:rsaid@uwaterloo.ca">rsaid@uwaterloo.ca</a>
+- <sub>
+    <a href="https://www.linkedin.com/in/rawsabsaid/"><img width="18" alt="linkedin" src="https://github.com/user-attachments/assets/d2db5a36-a2d7-4234-9265-4af658ad23b7" /></a>
+  </sub> Linkedin: <a href="https://www.linkedin.com/in/rawsabsaid/">linkedin.com/in/rawsabsaid/</a>
+- <sub>
+    <a href="https://rawsab.com/"><img width="18" alt="website" src="https://github.com/user-attachments/assets/9a9a11b2-c79c-429c-90c7-5fb559497df7" /></a>
+  </sub> Portfolio: <a href="https://rawsab.com/">rawsab.com</a>

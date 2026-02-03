@@ -20,7 +20,9 @@
 </p>
 -->
 
-I'm a fourth-year Software Engineering student at the **University of Waterloo**. I've worked across early-stage startups and scaling products, most recently in machine learning roles at&nbsp; <sub><a href="https://www.palitronica.com/"><img width="20" alt="PalitronicaIcon" src="https://github.com/user-attachments/assets/82fc8cdf-751f-4095-aafe-fe8c73ca1dbc"/></a></sub> **Palitronica (YC W22)** and&nbsp; <sub><a href="https://node-app.com/"><img width="20" alt="NodeAppIcon" src="https://github.com/user-attachments/assets/900c43a6-d8fc-4e71-99a5-49e3ceace826"/></a></sub> **Node App**. Currently building&nbsp; <sub><a href="https://github.com/rawsab/keystone-app"><img width="20" height="20" alt="KeystoneIcon" src="https://github.com/user-attachments/assets/dc8d27f2-7802-434a-b972-dc2e8e10ae6c" /></a></sub> **Keystone**.
+I'm a fourth-year Software Engineering student at the **University of Waterloo**. I've worked across early-stage startups and scaling products, most recently in machine learning roles at&nbsp; <sub><a href="https://www.palitronica.com/"><img width="20" alt="PalitronicaIcon" src="https://github.com/user-attachments/assets/82fc8cdf-751f-4095-aafe-fe8c73ca1dbc"/></a></sub> **Palitronica (YC W22)** and&nbsp; <sub><a href="https://node-app.com/"><img width="20" alt="NodeAppIcon" src="https://github.com/user-attachments/assets/900c43a6-d8fc-4e71-99a5-49e3ceace826"/></a></sub> **Node App**. 
+
+At the moment, I'm also building&nbsp; <sub><a href="https://github.com/rawsab/keystone-app"><img width="20" height="20" alt="KeystoneIcon" src="https://github.com/user-attachments/assets/dc8d27f2-7802-434a-b972-dc2e8e10ae6c" /></a></sub> **Keystone**.
 
 
 ## 💻 Experience

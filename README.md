@@ -20,9 +20,9 @@
 </p>
 -->
 
-I'm a fourth-year Software Engineering student at the **University of Waterloo**. I've worked across early-stage startups and scaling products, most recently in machine learning roles at&nbsp; <sub><a href="https://www.palitronica.com/"><img width="20" alt="PalitronicaIcon" src="https://github.com/user-attachments/assets/82fc8cdf-751f-4095-aafe-fe8c73ca1dbc"/></a></sub> **Palitronica (YC W22)** and&nbsp; <sub><a href="https://node-app.com/"><img width="20" alt="NodeAppIcon" src="https://github.com/user-attachments/assets/900c43a6-d8fc-4e71-99a5-49e3ceace826"/></a></sub> **Node App**. 
+I'm a fourth-year Software Engineering student at the **University of Waterloo**. I've worked across scaling products and early-stage startups, most recently at&nbsp; <sub><a href="https://www.hubspot.com/products/artificial-intelligence"><img width="20" alt="hubspot_icon" src="https://github.com/user-attachments/assets/29297cad-5354-488c-83af-632a2b204ab0" /></a></sub> **HubSpot** and&nbsp; <sub><a href="https://www.palitronica.com/"><img width="20" alt="PalitronicaIcon" src="https://github.com/user-attachments/assets/82fc8cdf-751f-4095-aafe-fe8c73ca1dbc"/></a></sub> **Palitronica (YC W22)**. 
 
-At the moment, I'm also building&nbsp; <sub><a href="https://github.com/rawsab/keystone-app"><img width="20" height="20" alt="KeystoneIcon" src="https://github.com/user-attachments/assets/dc8d27f2-7802-434a-b972-dc2e8e10ae6c" /></a></sub> **Keystone**.
+At the moment, I'm also building&nbsp; <sub><a href="https://github.com/rawsab/keystone-app"><img width="20" height="20" alt="KeystoneIcon" src="https://github.com/user-attachments/assets/4a2b60de-cf41-429e-acd1-4e597a68ee79" /></a></sub> **Keystone**.
 
 
 ## 💻 Experience
@@ -37,7 +37,7 @@ At the moment, I'm also building&nbsp; <sub><a href="https://github.com/rawsab/k
 
 - Currently seeking **2026** SWE internship opportunities 🔭
 
-- Previously, I have also worked as a Software Engineer Intern on distributed systems at&nbsp; <sub><a href="https://dandelionnet.com/"><img width="20" alt="DandelionNetworksIcon" src="https://github.com/user-attachments/assets/1d15da21-5dd1-4768-9324-da5bcc8b1fae"/></a></sub> **dandelion**, vulnerability management pipelines at&nbsp; <sub><a href="https://www.blackberry.com/"><img width="20" alt="BlackBerryIcon" src="https://github.com/user-attachments/assets/bcef354f-9a10-474a-bd72-86f63937a358"/></a></sub> **BlackBerry**, and full-stack development at&nbsp; <sub><a href="https://www.cypienta.com/"><img width="20" alt="CypientaIcon" src="https://github.com/user-attachments/assets/eb0e4a81-e40a-4007-994f-98197f05e069"/></a></sub> **Cypienta**.
+- Previously, I have also worked as a Software Engineer Intern on applied AI at&nbsp; <sub><a href="https://node-app.com/"><img width="20" alt="DandelionNetworksIcon" src="https://github.com/user-attachments/assets/900c43a6-d8fc-4e71-99a5-49e3ceace826"/></a></sub> **Node App**, distributed systems at&nbsp; <sub><a href="https://dandelionnet.com/"><img width="20" alt="DandelionNetworksIcon" src="https://github.com/user-attachments/assets/1d15da21-5dd1-4768-9324-da5bcc8b1fae"/></a></sub> **dandelion**, vulnerability management pipelines at&nbsp; <sub><a href="https://www.blackberry.com/"><img width="20" alt="BlackBerryIcon" src="https://github.com/user-attachments/assets/bcef354f-9a10-474a-bd72-86f63937a358"/></a></sub> **BlackBerry**, and full-stack development at&nbsp; <sub><a href="https://www.cypienta.com/"><img width="20" alt="CypientaIcon" src="https://github.com/user-attachments/assets/eb0e4a81-e40a-4007-994f-98197f05e069"/></a></sub> **Cypienta**.
 
 
 <!--

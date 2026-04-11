@@ -20,7 +20,7 @@
 </p>
 -->
 
-I'm a fourth-year Software Engineering student at the **University of Waterloo**. I've worked across scaling products and early-stage startups, most recently at&nbsp; <sub><a href="https://www.hubspot.com/products/artificial-intelligence"><img width="20" alt="hubspot_icon" src="https://github.com/user-attachments/assets/29297cad-5354-488c-83af-632a2b204ab0" /></a></sub> **HubSpot** and&nbsp; <sub><a href="https://www.palitronica.com/"><img width="20" alt="PalitronicaIcon" src="https://github.com/user-attachments/assets/82fc8cdf-751f-4095-aafe-fe8c73ca1dbc"/></a></sub> **Palitronica (YC W22)**. 
+I'm a fourth-year Software Engineering student at the **University of Waterloo**. I've worked across scaling products and early-stage startups, most recently at&nbsp; <sub><a href="https://www.hubspot.com/products/artificial-intelligence"><img width="20" alt="hubspot_icon" src="https://github.com/user-attachments/assets/29297cad-5354-488c-83af-632a2b204ab0" /></a></sub> **HubSpot** (Incoming Summer 2026) and&nbsp; <sub><a href="https://www.palitronica.com/"><img width="20" alt="PalitronicaIcon" src="https://github.com/user-attachments/assets/82fc8cdf-751f-4095-aafe-fe8c73ca1dbc"/></a></sub> **Palitronica (YC W22)**. 
 
 At the moment, I'm also building&nbsp; <sub><a href="https://github.com/rawsab/keystone-app"><img width="20" height="20" alt="KeystoneIcon" src="https://github.com/user-attachments/assets/4a2b60de-cf41-429e-acd1-4e597a68ee79" /></a></sub> **Keystone**.
 

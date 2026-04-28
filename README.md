@@ -9,9 +9,9 @@ currently building&nbsp; <sub><a href="https://github.com/rawsab/keystone-app"><
 
 **previously**
 - inference optimization @&nbsp; <sub><a href="https://www.palitronica.com/"><img width="20" alt="Palitronica Inc" src="https://github.com/user-attachments/assets/82fc8cdf-751f-4095-aafe-fe8c73ca1dbc"/></a></sub> **Palitronica (YC W22)**
-- agentic systems + data @&nbsp; <sub><a href="https://node-app.com/"><img width="20" alt="Node App" src="https://github.com/user-attachments/assets/900c43a6-d8fc-4e71-99a5-49e3ceace826"/></a></sub> **Node App**
-- distributed systems @&nbsp; <sub><a href="https://dandelionnet.com/"><img width="20" alt="Dandelion Networks" src="https://github.com/user-attachments/assets/1d15da21-5dd1-4768-9324-da5bcc8b1fae"/></a></sub> **dandelion**
-- platform engineering @&nbsp; <sub><a href="https://www.blackberry.com/"><img width="20" alt="BlackBerry" src="https://github.com/user-attachments/assets/bcef354f-9a10-474a-bd72-86f63937a358"/></a></sub> **BlackBerry**
+- agentic systems + data @&nbsp; <sub><a href="https://node-app.com/"><img width="20" alt="Node App" src="https://github.com/user-attachments/assets/f76d336a-712a-49f4-a252-c67a661f18d8"/></a></sub> **Node App**
+- distributed systems @&nbsp; <sub><a href="https://dandelionnet.com/"><img width="20" alt="Dandelion Networks" src="https://github.com/user-attachments/assets/85f1744a-7b14-41c1-80a0-2767cd44f753"/></a></sub> **dandelion**
+- platform engineering @&nbsp; <sub><a href="https://www.blackberry.com/"><img width="20" alt="BlackBerry" src="https://github.com/user-attachments/assets/e1259b25-f8f0-4f48-9dca-cef06a39758d"/></a></sub> **BlackBerry**
 
 ---
 

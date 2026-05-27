@@ -1,7 +1,7 @@
 ### hi, i'm rawsab! 👋
 
 - software engineering @&nbsp; <sub><a href="https://uwaterloo.ca/"><img width="20" alt="UWaterloo" src="https://github.com/user-attachments/assets/026a5f41-eb52-402b-b7ac-c362d8b29d3b" /></a></sub> **University of Waterloo**
-- incoming @&nbsp; <sub><a href="https://www.hubspot.com/products/artificial-intelligence"><img width="20" alt="HubSpot" src="https://github.com/user-attachments/assets/29297cad-5354-488c-83af-632a2b204ab0" /></a></sub> **HubSpot**
+- backend + ai @&nbsp; <sub><a href="https://www.hubspot.com/products/artificial-intelligence"><img width="20" alt="HubSpot" src="https://github.com/user-attachments/assets/29297cad-5354-488c-83af-632a2b204ab0" /></a></sub> **HubSpot**
 
 <!--
 currently building&nbsp; <sub><a href="https://github.com/rawsab/keystone-app"><img width="20" height="20" alt="Keystone" src="https://github.com/user-attachments/assets/4a2b60de-cf41-429e-acd1-4e597a68ee79" /></a></sub> **Keystone**.
